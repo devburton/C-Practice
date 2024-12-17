@@ -1,0 +1,14 @@
+C:\dev\C#\CsharpProjects\commentPractice\bin\Debug\net9.0\commentPractice.exe
+C:\dev\C#\CsharpProjects\commentPractice\bin\Debug\net9.0\commentPractice.deps.json
+C:\dev\C#\CsharpProjects\commentPractice\bin\Debug\net9.0\commentPractice.runtimeconfig.json
+C:\dev\C#\CsharpProjects\commentPractice\bin\Debug\net9.0\commentPractice.dll
+C:\dev\C#\CsharpProjects\commentPractice\bin\Debug\net9.0\commentPractice.pdb
+C:\dev\C#\CsharpProjects\commentPractice\obj\Debug\net9.0\commentPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\CsharpProjects\commentPractice\obj\Debug\net9.0\commentPractice.AssemblyInfoInputs.cache
+C:\dev\C#\CsharpProjects\commentPractice\obj\Debug\net9.0\commentPractice.AssemblyInfo.cs
+C:\dev\C#\CsharpProjects\commentPractice\obj\Debug\net9.0\commentPractice.csproj.CoreCompileInputs.cache
+C:\dev\C#\CsharpProjects\commentPractice\obj\Debug\net9.0\commentPractice.dll
+C:\dev\C#\CsharpProjects\commentPractice\obj\Debug\net9.0\refint\commentPractice.dll
+C:\dev\C#\CsharpProjects\commentPractice\obj\Debug\net9.0\commentPractice.pdb
+C:\dev\C#\CsharpProjects\commentPractice\obj\Debug\net9.0\commentPractice.genruntimeconfig.cache
+C:\dev\C#\CsharpProjects\commentPractice\obj\Debug\net9.0\ref\commentPractice.dll

@@ -1,0 +1,14 @@
+C:\dev\C#\CsharpProjects\largerValue\bin\Debug\net9.0\largerValue.exe
+C:\dev\C#\CsharpProjects\largerValue\bin\Debug\net9.0\largerValue.deps.json
+C:\dev\C#\CsharpProjects\largerValue\bin\Debug\net9.0\largerValue.runtimeconfig.json
+C:\dev\C#\CsharpProjects\largerValue\bin\Debug\net9.0\largerValue.dll
+C:\dev\C#\CsharpProjects\largerValue\bin\Debug\net9.0\largerValue.pdb
+C:\dev\C#\CsharpProjects\largerValue\obj\Debug\net9.0\largerValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\CsharpProjects\largerValue\obj\Debug\net9.0\largerValue.AssemblyInfoInputs.cache
+C:\dev\C#\CsharpProjects\largerValue\obj\Debug\net9.0\largerValue.AssemblyInfo.cs
+C:\dev\C#\CsharpProjects\largerValue\obj\Debug\net9.0\largerValue.csproj.CoreCompileInputs.cache
+C:\dev\C#\CsharpProjects\largerValue\obj\Debug\net9.0\largerValue.dll
+C:\dev\C#\CsharpProjects\largerValue\obj\Debug\net9.0\refint\largerValue.dll
+C:\dev\C#\CsharpProjects\largerValue\obj\Debug\net9.0\largerValue.pdb
+C:\dev\C#\CsharpProjects\largerValue\obj\Debug\net9.0\largerValue.genruntimeconfig.cache
+C:\dev\C#\CsharpProjects\largerValue\obj\Debug\net9.0\ref\largerValue.dll

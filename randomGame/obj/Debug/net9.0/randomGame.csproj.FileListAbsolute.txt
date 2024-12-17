@@ -1,0 +1,14 @@
+c:\dev\C#\CsharpProjects\randomGame\bin\Debug\net9.0\randomGame.exe
+c:\dev\C#\CsharpProjects\randomGame\bin\Debug\net9.0\randomGame.deps.json
+c:\dev\C#\CsharpProjects\randomGame\bin\Debug\net9.0\randomGame.runtimeconfig.json
+c:\dev\C#\CsharpProjects\randomGame\bin\Debug\net9.0\randomGame.dll
+c:\dev\C#\CsharpProjects\randomGame\bin\Debug\net9.0\randomGame.pdb
+c:\dev\C#\CsharpProjects\randomGame\obj\Debug\net9.0\randomGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\C#\CsharpProjects\randomGame\obj\Debug\net9.0\randomGame.AssemblyInfoInputs.cache
+c:\dev\C#\CsharpProjects\randomGame\obj\Debug\net9.0\randomGame.AssemblyInfo.cs
+c:\dev\C#\CsharpProjects\randomGame\obj\Debug\net9.0\randomGame.csproj.CoreCompileInputs.cache
+c:\dev\C#\CsharpProjects\randomGame\obj\Debug\net9.0\randomGame.dll
+c:\dev\C#\CsharpProjects\randomGame\obj\Debug\net9.0\refint\randomGame.dll
+c:\dev\C#\CsharpProjects\randomGame\obj\Debug\net9.0\randomGame.pdb
+c:\dev\C#\CsharpProjects\randomGame\obj\Debug\net9.0\randomGame.genruntimeconfig.cache
+c:\dev\C#\CsharpProjects\randomGame\obj\Debug\net9.0\ref\randomGame.dll

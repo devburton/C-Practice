@@ -1,0 +1,14 @@
+C:\dev\C#\CsharpProjects\expirationProgram\bin\Debug\net9.0\expirationProgram.exe
+C:\dev\C#\CsharpProjects\expirationProgram\bin\Debug\net9.0\expirationProgram.deps.json
+C:\dev\C#\CsharpProjects\expirationProgram\bin\Debug\net9.0\expirationProgram.runtimeconfig.json
+C:\dev\C#\CsharpProjects\expirationProgram\bin\Debug\net9.0\expirationProgram.dll
+C:\dev\C#\CsharpProjects\expirationProgram\bin\Debug\net9.0\expirationProgram.pdb
+C:\dev\C#\CsharpProjects\expirationProgram\obj\Debug\net9.0\expirationProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\CsharpProjects\expirationProgram\obj\Debug\net9.0\expirationProgram.AssemblyInfoInputs.cache
+C:\dev\C#\CsharpProjects\expirationProgram\obj\Debug\net9.0\expirationProgram.AssemblyInfo.cs
+C:\dev\C#\CsharpProjects\expirationProgram\obj\Debug\net9.0\expirationProgram.csproj.CoreCompileInputs.cache
+C:\dev\C#\CsharpProjects\expirationProgram\obj\Debug\net9.0\expirationProgram.dll
+C:\dev\C#\CsharpProjects\expirationProgram\obj\Debug\net9.0\refint\expirationProgram.dll
+C:\dev\C#\CsharpProjects\expirationProgram\obj\Debug\net9.0\expirationProgram.pdb
+C:\dev\C#\CsharpProjects\expirationProgram\obj\Debug\net9.0\expirationProgram.genruntimeconfig.cache
+C:\dev\C#\CsharpProjects\expirationProgram\obj\Debug\net9.0\ref\expirationProgram.dll

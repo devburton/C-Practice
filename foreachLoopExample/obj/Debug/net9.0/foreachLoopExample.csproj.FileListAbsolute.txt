@@ -1,0 +1,14 @@
+C:\dev\C#\CsharpProjects\foreachLoopExample\bin\Debug\net9.0\foreachLoopExample.exe
+C:\dev\C#\CsharpProjects\foreachLoopExample\bin\Debug\net9.0\foreachLoopExample.deps.json
+C:\dev\C#\CsharpProjects\foreachLoopExample\bin\Debug\net9.0\foreachLoopExample.runtimeconfig.json
+C:\dev\C#\CsharpProjects\foreachLoopExample\bin\Debug\net9.0\foreachLoopExample.dll
+C:\dev\C#\CsharpProjects\foreachLoopExample\bin\Debug\net9.0\foreachLoopExample.pdb
+C:\dev\C#\CsharpProjects\foreachLoopExample\obj\Debug\net9.0\foreachLoopExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\CsharpProjects\foreachLoopExample\obj\Debug\net9.0\foreachLoopExample.AssemblyInfoInputs.cache
+C:\dev\C#\CsharpProjects\foreachLoopExample\obj\Debug\net9.0\foreachLoopExample.AssemblyInfo.cs
+C:\dev\C#\CsharpProjects\foreachLoopExample\obj\Debug\net9.0\foreachLoopExample.csproj.CoreCompileInputs.cache
+C:\dev\C#\CsharpProjects\foreachLoopExample\obj\Debug\net9.0\foreachLoopExample.dll
+C:\dev\C#\CsharpProjects\foreachLoopExample\obj\Debug\net9.0\refint\foreachLoopExample.dll
+C:\dev\C#\CsharpProjects\foreachLoopExample\obj\Debug\net9.0\foreachLoopExample.pdb
+C:\dev\C#\CsharpProjects\foreachLoopExample\obj\Debug\net9.0\foreachLoopExample.genruntimeconfig.cache
+C:\dev\C#\CsharpProjects\foreachLoopExample\obj\Debug\net9.0\ref\foreachLoopExample.dll

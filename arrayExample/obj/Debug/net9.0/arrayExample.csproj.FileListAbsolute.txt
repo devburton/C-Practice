@@ -1,0 +1,14 @@
+C:\dev\C#\CsharpProjects\arrayExample\bin\Debug\net9.0\arrayExample.exe
+C:\dev\C#\CsharpProjects\arrayExample\bin\Debug\net9.0\arrayExample.deps.json
+C:\dev\C#\CsharpProjects\arrayExample\bin\Debug\net9.0\arrayExample.runtimeconfig.json
+C:\dev\C#\CsharpProjects\arrayExample\bin\Debug\net9.0\arrayExample.dll
+C:\dev\C#\CsharpProjects\arrayExample\bin\Debug\net9.0\arrayExample.pdb
+C:\dev\C#\CsharpProjects\arrayExample\obj\Debug\net9.0\arrayExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\CsharpProjects\arrayExample\obj\Debug\net9.0\arrayExample.AssemblyInfoInputs.cache
+C:\dev\C#\CsharpProjects\arrayExample\obj\Debug\net9.0\arrayExample.AssemblyInfo.cs
+C:\dev\C#\CsharpProjects\arrayExample\obj\Debug\net9.0\arrayExample.csproj.CoreCompileInputs.cache
+C:\dev\C#\CsharpProjects\arrayExample\obj\Debug\net9.0\arrayExample.dll
+C:\dev\C#\CsharpProjects\arrayExample\obj\Debug\net9.0\refint\arrayExample.dll
+C:\dev\C#\CsharpProjects\arrayExample\obj\Debug\net9.0\arrayExample.pdb
+C:\dev\C#\CsharpProjects\arrayExample\obj\Debug\net9.0\arrayExample.genruntimeconfig.cache
+C:\dev\C#\CsharpProjects\arrayExample\obj\Debug\net9.0\ref\arrayExample.dll

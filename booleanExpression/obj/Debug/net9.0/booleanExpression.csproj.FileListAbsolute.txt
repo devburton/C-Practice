@@ -1,0 +1,14 @@
+C:\dev\C#\CsharpProjects\booleanExpression\bin\Debug\net9.0\booleanExpression.exe
+C:\dev\C#\CsharpProjects\booleanExpression\bin\Debug\net9.0\booleanExpression.deps.json
+C:\dev\C#\CsharpProjects\booleanExpression\bin\Debug\net9.0\booleanExpression.runtimeconfig.json
+C:\dev\C#\CsharpProjects\booleanExpression\bin\Debug\net9.0\booleanExpression.dll
+C:\dev\C#\CsharpProjects\booleanExpression\bin\Debug\net9.0\booleanExpression.pdb
+C:\dev\C#\CsharpProjects\booleanExpression\obj\Debug\net9.0\booleanExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\CsharpProjects\booleanExpression\obj\Debug\net9.0\booleanExpression.AssemblyInfoInputs.cache
+C:\dev\C#\CsharpProjects\booleanExpression\obj\Debug\net9.0\booleanExpression.AssemblyInfo.cs
+C:\dev\C#\CsharpProjects\booleanExpression\obj\Debug\net9.0\booleanExpression.csproj.CoreCompileInputs.cache
+C:\dev\C#\CsharpProjects\booleanExpression\obj\Debug\net9.0\booleanExpression.dll
+C:\dev\C#\CsharpProjects\booleanExpression\obj\Debug\net9.0\refint\booleanExpression.dll
+C:\dev\C#\CsharpProjects\booleanExpression\obj\Debug\net9.0\booleanExpression.pdb
+C:\dev\C#\CsharpProjects\booleanExpression\obj\Debug\net9.0\booleanExpression.genruntimeconfig.cache
+C:\dev\C#\CsharpProjects\booleanExpression\obj\Debug\net9.0\ref\booleanExpression.dll
