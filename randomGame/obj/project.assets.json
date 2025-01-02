@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\dev\\C#\\CsharpProjects\\randomGame\\randomGame.csproj",
+      "projectUniqueName": "C:\\dev\\C#\\C-Practice\\randomGame\\randomGame.csproj",
       "projectName": "randomGame",
-      "projectPath": "C:\\dev\\C#\\CsharpProjects\\randomGame\\randomGame.csproj",
+      "projectPath": "C:\\dev\\C#\\C-Practice\\randomGame\\randomGame.csproj",
       "packagesPath": "C:\\Users\\devbu\\.nuget\\packages\\",
-      "outputPath": "C:\\dev\\C#\\CsharpProjects\\randomGame\\obj\\",
+      "outputPath": "C:\\dev\\C#\\C-Practice\\randomGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\devbu\\AppData\\Roaming\\NuGet\\NuGet.Config"

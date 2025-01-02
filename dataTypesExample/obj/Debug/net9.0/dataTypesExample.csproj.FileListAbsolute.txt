@@ -1,0 +1,15 @@
+C:\dev\C#\C-Practice\dataTypesExample\bin\Debug\net9.0\dataTypesExample.exe
+C:\dev\C#\C-Practice\dataTypesExample\bin\Debug\net9.0\dataTypesExample.deps.json
+C:\dev\C#\C-Practice\dataTypesExample\bin\Debug\net9.0\dataTypesExample.runtimeconfig.json
+C:\dev\C#\C-Practice\dataTypesExample\bin\Debug\net9.0\dataTypesExample.dll
+C:\dev\C#\C-Practice\dataTypesExample\bin\Debug\net9.0\dataTypesExample.pdb
+C:\dev\C#\C-Practice\dataTypesExample\obj\Debug\net9.0\dataTypesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\C-Practice\dataTypesExample\obj\Debug\net9.0\dataTypesExample.AssemblyInfoInputs.cache
+C:\dev\C#\C-Practice\dataTypesExample\obj\Debug\net9.0\dataTypesExample.AssemblyInfo.cs
+C:\dev\C#\C-Practice\dataTypesExample\obj\Debug\net9.0\dataTypesExample.csproj.CoreCompileInputs.cache
+C:\dev\C#\C-Practice\dataTypesExample\obj\Debug\net9.0\dataTypesExample.sourcelink.json
+C:\dev\C#\C-Practice\dataTypesExample\obj\Debug\net9.0\dataTypesExample.dll
+C:\dev\C#\C-Practice\dataTypesExample\obj\Debug\net9.0\refint\dataTypesExample.dll
+C:\dev\C#\C-Practice\dataTypesExample\obj\Debug\net9.0\dataTypesExample.pdb
+C:\dev\C#\C-Practice\dataTypesExample\obj\Debug\net9.0\dataTypesExample.genruntimeconfig.cache
+C:\dev\C#\C-Practice\dataTypesExample\obj\Debug\net9.0\ref\dataTypesExample.dll

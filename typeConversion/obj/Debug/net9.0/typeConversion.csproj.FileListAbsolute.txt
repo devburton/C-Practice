@@ -1,0 +1,15 @@
+C:\dev\C#\C-Practice\typeConversion\obj\Debug\net9.0\typeConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\C-Practice\typeConversion\obj\Debug\net9.0\typeConversion.AssemblyInfoInputs.cache
+C:\dev\C#\C-Practice\typeConversion\obj\Debug\net9.0\typeConversion.AssemblyInfo.cs
+C:\dev\C#\C-Practice\typeConversion\obj\Debug\net9.0\typeConversion.csproj.CoreCompileInputs.cache
+C:\dev\C#\C-Practice\typeConversion\obj\Debug\net9.0\typeConversion.sourcelink.json
+C:\dev\C#\C-Practice\typeConversion\bin\Debug\net9.0\typeConversion.exe
+C:\dev\C#\C-Practice\typeConversion\bin\Debug\net9.0\typeConversion.deps.json
+C:\dev\C#\C-Practice\typeConversion\bin\Debug\net9.0\typeConversion.runtimeconfig.json
+C:\dev\C#\C-Practice\typeConversion\bin\Debug\net9.0\typeConversion.dll
+C:\dev\C#\C-Practice\typeConversion\bin\Debug\net9.0\typeConversion.pdb
+C:\dev\C#\C-Practice\typeConversion\obj\Debug\net9.0\typeConversion.dll
+C:\dev\C#\C-Practice\typeConversion\obj\Debug\net9.0\refint\typeConversion.dll
+C:\dev\C#\C-Practice\typeConversion\obj\Debug\net9.0\typeConversion.pdb
+C:\dev\C#\C-Practice\typeConversion\obj\Debug\net9.0\typeConversion.genruntimeconfig.cache
+C:\dev\C#\C-Practice\typeConversion\obj\Debug\net9.0\ref\typeConversion.dll

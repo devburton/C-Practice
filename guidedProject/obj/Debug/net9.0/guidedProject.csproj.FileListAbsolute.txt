@@ -1,0 +1,15 @@
+C:\dev\C#\C-Practice\guidedProject\bin\Debug\net9.0\guidedProject.exe
+C:\dev\C#\C-Practice\guidedProject\bin\Debug\net9.0\guidedProject.deps.json
+C:\dev\C#\C-Practice\guidedProject\bin\Debug\net9.0\guidedProject.runtimeconfig.json
+C:\dev\C#\C-Practice\guidedProject\bin\Debug\net9.0\guidedProject.dll
+C:\dev\C#\C-Practice\guidedProject\bin\Debug\net9.0\guidedProject.pdb
+C:\dev\C#\C-Practice\guidedProject\obj\Debug\net9.0\guidedProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\C#\C-Practice\guidedProject\obj\Debug\net9.0\guidedProject.AssemblyInfoInputs.cache
+C:\dev\C#\C-Practice\guidedProject\obj\Debug\net9.0\guidedProject.AssemblyInfo.cs
+C:\dev\C#\C-Practice\guidedProject\obj\Debug\net9.0\guidedProject.csproj.CoreCompileInputs.cache
+C:\dev\C#\C-Practice\guidedProject\obj\Debug\net9.0\guidedProject.sourcelink.json
+C:\dev\C#\C-Practice\guidedProject\obj\Debug\net9.0\guidedProject.dll
+C:\dev\C#\C-Practice\guidedProject\obj\Debug\net9.0\refint\guidedProject.dll
+C:\dev\C#\C-Practice\guidedProject\obj\Debug\net9.0\guidedProject.pdb
+C:\dev\C#\C-Practice\guidedProject\obj\Debug\net9.0\guidedProject.genruntimeconfig.cache
+C:\dev\C#\C-Practice\guidedProject\obj\Debug\net9.0\ref\guidedProject.dll
